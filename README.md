@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Oscátegui</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" style="max-width:100%;">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank">
