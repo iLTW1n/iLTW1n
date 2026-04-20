@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/iLTW1n">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jose-oscategui/">LinkedIn</a>
 </p>
 
 ---
