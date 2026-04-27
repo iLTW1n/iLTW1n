@@ -4,16 +4,19 @@
   <b>Frontend Engineer</b> focused on performance, scalability & building high-impact products
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/iLTW1n">GitHub</a> •
   <a href="https://www.linkedin.com/in/jose-oscategui/">LinkedIn</a>
-</p>
+</p> -->
+<p align="center"> <a href="https://www.linkedin.com/in/jose-oscategui/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
----
+<p align="center"> <i>"Building products that scale, not just code that works."</i> </p>
+
+<!-- ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+frontend+systems;Performance+obsessed;Crafting+clean+architecture;Exploring+AI+in+web&center=true&width=500&height=45">
-</p>
+</p> -->
 
 ---
 
@@ -52,14 +55,14 @@ A lightweight and customizable event tracking library for React that simplifies 
 - 📊 Designed systems for high concurrency
 - 🧩 Built reusable & scalable frontend architectures
 
-<!-- ---
+---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iLTW1n&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iLTW1n&theme=tokyonight&hide_border=true" />
-</p> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-oscategui&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-oscategui&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -67,21 +70,17 @@ A lightweight and customizable event tracking library for React that simplifies 
 
 ```ts
 const currentFocus = {
-  building: "Mock API AI",
+  building: "MockAPI",
   learning: "AI integrations in frontend",
   improving: ["Performance", "System design", "DX"]
 }
 ```
----
+<!-- --- -->
 
-### 🧩 Activity Graph
+<!-- ### 🧩 Activity Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iLTW1n&theme=tokyo-night&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-oscategui&theme=tokyo-night&hide_border=true" /> </p> -->
 
----
+<!-- <p align="center"> <a href="https://www.linkedin.com/in/jose-oscategui/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
-### 🧩 Activity Graph
-
-<p align="center"> <a href="https://www.linkedin.com/in/jose-oscategui/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
-
-<p align="center"> <i>"Building products that scale, not just code that works."</i> </p>
+<p align="center"> <i>"Building products that scale, not just code that works."</i> </p> -->
