@@ -1,7 +1,7 @@
 <h1 align="center">José Oscátegui 👋</h1>
 
 <p align="center">
-  <b>Frontend Engineer</b> focused on performance, scalability & building high-impact products
+  <b>Frontend Engineer</b> building scalable React systems, analytics-driven products, and AI-powered solutions
 </p>
 
 <!-- <p align="center">
@@ -22,10 +22,10 @@
 
 ### 🧠 About Me
 
-- 🚀 Frontend Engineer focused on **scalable architectures**
-- ⚡ Strong focus on **performance & user experience**
-- 🧩 Building systems designed for **10k+ users**
-- 🤖 Exploring **AI + frontend integrations**
+- 🚀 I build **scalable React and Next.js applications** for real product growth
+- ⚡ I care deeply about **performance, clean architecture and measurable UX**
+- 📊 I design **analytics-friendly frontend systems** that help teams make better decisions
+- 🤖 I’m exploring **AI integrations in frontend products** with a practical, product-first mindset
 
 ---
 
@@ -37,23 +37,31 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-#### 🔥 MockAPI
-Fast and minimal API mocking tool for developers
-→ https://www.mockapi.run
-
-#### 📊 React Tag Tracker for GTM
+#### 📊 React Tag Tracker
 A lightweight and customizable event tracking library for React that simplifies integration with Google Tag Manager (GTM).
+
+**Why it matters**
+- Reduces friction when implementing analytics in React applications
+- Gives teams a cleaner way to standardize event tracking
+- Supports scalable measurement as products and teams grow
+
+**What it says about my work**
+- I care about **developer experience**, not just shipping features
+- I build tools that improve **architecture, consistency and maintainability**
+- I like solving problems where **product, engineering and data** intersect
+
 → https://www.npmjs.com/package/react-tag-tracker
 
 ---
 
 ### 📈 Impact
 
-- ⚡ Improved performance in production applications
-- 📊 Designed systems for high concurrency
-- 🧩 Built reusable & scalable frontend architectures
+- ⚡ Improved frontend performance in production applications
+- 📊 Built reusable analytics patterns for React-based products
+- 🧩 Designed scalable frontend architectures for growing teams
+- 🤖 Focused on practical AI integrations inside frontend workflows and user experiences
 
 ---
 
@@ -70,9 +78,9 @@ A lightweight and customizable event tracking library for React that simplifies 
 
 ```ts
 const currentFocus = {
-  building: "MockAPI",
+  building: "React Tag Tracker",
   learning: "AI integrations in frontend",
-  improving: ["Performance", "System design", "DX"]
+  improving: ["Performance", "System design", "Developer Experience", "Product analytics"]
 }
 ```
 <!-- --- -->
