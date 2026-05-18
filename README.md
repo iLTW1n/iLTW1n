@@ -45,7 +45,6 @@ A lightweight and customizable event tracking library for React that simplifies 
 **Why it matters**
 - Reduces friction when implementing analytics in React applications
 - Gives teams a cleaner way to standardize event tracking
-- Supports scalable measurement as products and teams grow
 
 **What it says about my work**
 - I care about **developer experience**, not just shipping features
@@ -68,7 +67,6 @@ A lightweight and customizable event tracking library for React that simplifies 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-oscategui&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-oscategui&theme=tokyonight&hide_border=true" />
 </p>
 
